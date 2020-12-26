@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Test Book Post
 date: 2020-12-26T17:22:24.649Z
 description: This is a test post
-featuredpost: false
+featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
 tags:
   - new
